@@ -1,3 +1,3 @@
 # delivery
 
-<img src="./ss/login.png" height="400" width="100"/>
+<img src="./ss/login.png" height="400" width="400"/>
